@@ -1,2 +1,2 @@
 # hyberblog
-Un blog increible para el uso de Git y Github de Platzi
+Un blog increible para el uso de Git y Github de Platzi  sss
